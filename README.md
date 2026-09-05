@@ -81,8 +81,8 @@ Bilingual, voice-enabled RAG chatbot answering SVECW admissions and campus queri
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-psi-vert-28.vercel.app/api?username=manaswini1877&show_icons=true" width="48%" />
-  <img src="https://camo.githubusercontent.com/77795e2614661d19fa2d58616559ec17fad74576fed97b00e05a7675c57f2798/68747470733a2f2f6769746875622d726561646d652d73746174732d7073692d766572742d32382e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d616e617377696e6931383737266c61796f75743d636f6d7061637426686964655f626f726465723d74727565" width="40%" />
+  <img src="https://github-readme-stats-psi-vert-28.vercel.app/api?username=manaswini1877&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-psi-vert-28.vercel.app/api/top-langs/?username=manaswini1877&layout=compact&hide_border=true" width="40%" />
 </p>
 
 ---
